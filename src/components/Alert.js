@@ -6,7 +6,7 @@ const Alert = () => {
     <div>
       <div class='alert'>
         <strong>This user name does not exist!</strong> Please specify an
-        existing user name! action.
+        existing user name!.
       </div>
     </div>
   );
